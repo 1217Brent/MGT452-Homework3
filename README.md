@@ -1,6 +1,7 @@
 ## Running the Newsvendor Model Calculator
 
 Follow these steps to set up and run the calculator for Assignment #3, Question #3:
+Thank you professor for teaching our class and always thinking of ways to make your class interesting like with bumble!  I would love to stay connected as I am interested in data & business analytics.  I always try to solve questions on my own but would love to improve with your advice.  I would also like to know which animes you will be watching!
 
 1. **Navigate to the project directory:**
    ```bash
